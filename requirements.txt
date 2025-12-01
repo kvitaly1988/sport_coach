@@ -1,10 +1,5 @@
-numpy>=1.24
-pandas>=2.0
-scipy>=1.11
-matplotlib>=3.8
-opencv-python>=4.9
-mediapipe>=0.10.10
-fastdtw>=0.3.4
-streamlit>=1.36
-plotly>=5.20
-pillow>=10.3
+streamlit==1.39.0
+numpy
+mediapipe
+opencv-python-headless==4.10.0.84
+protobuf<5

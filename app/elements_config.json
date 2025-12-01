@@ -1,0 +1,52 @@
+{
+  "handstand": {
+    "title": "Прыжок с места",
+    "reference_video": "references/handstand_jump2_exc.mp4",
+    "important_joints": {
+      "shoulder": 2.0,
+      "elbow": 1.5,
+      "hip": 2.0,
+      "knee": 1.0,
+      "ankle": 5.0,
+      "torso": 2.0
+    },
+    "tips_thresholds_deg": {
+      "minor": 8,
+      "major": 18
+    }
+  },
+  "squat_jump": {
+    "title": "Прыжок в воду",
+    "reference_video": "references/squat_jump_example.mp4",
+    "important_joints": {
+      "hip": 2.0,
+      "knee": 2.0,
+      "ankle": 1.5,
+      "shoulder": 1.0,
+      "elbow": 0.5,
+      "torso": 1.5
+    },
+    "tips_thresholds_deg": {
+      "minor": 10,
+      "major": 20
+    }
+  },
+  "bridge": {
+    "title": "Мостик",
+    "reference_video": "references/bridge_bridge_exc.MOV",
+    "important_joints": {},
+    "tips_thresholds_deg": {
+      "minor": 8,
+      "major": 18
+    }
+  },
+  "run": {
+    "title": "Бег",
+    "reference_video": "references/run_run_exc.MOV",
+    "important_joints": {},
+    "tips_thresholds_deg": {
+      "minor": 8,
+      "major": 18
+    }
+  }
+}

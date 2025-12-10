@@ -3,3 +3,4 @@ numpy
 mediapipe
 opencv-python-headless==4.10.0.84
 protobuf<5
+fastdtw

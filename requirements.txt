@@ -1,6 +1,6 @@
-streamlit
-numpy
-opencv-python-headless
-mediapipe
-imageio
-imageio-ffmpeg
+streamlit==1.31.1
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.9
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
